@@ -1,0 +1,5 @@
+venv/
+out/
+downloads/
+urls.json
+aria2c.txt
